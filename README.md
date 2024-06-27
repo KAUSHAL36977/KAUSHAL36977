@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KAUSHAL36977
+- 👋 Hi, I’m RUDOY KAUSHAL
 - 👀 I’m interested in CSE
 - 🌱 I’m currently learning DSA and Languages 
 - 💞️ I’m looking to collaborate on Frontend and Backend Project 
