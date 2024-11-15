@@ -1,9 +1,18 @@
-- 👋 Hi, I’m RUDOY KAUSHAL
-- 👀 I’m interested in CSE
-- 🌱 I’m currently learning DSA and Languages 
-- 💞️ I’m looking to collaborate on Frontend and Backend Project 
-- 📫 How to reach me linkedin Kaushal
-- 😄 Pronouns: He
+👋 Hey there! I’m  Rudoy Kaushal
+👀 Passionate about Computer Science Engineering (CSE)
+I'm deeply interested in exploring technology and finding solutions to real-world problems.
+
+🌱 Currently Mastering:
+Data Structures & Algorithms (DSA)
+Programming Languages
+💻 Open to Collaborate On:
+Frontend & Backend Projects
+Let's build something amazing together!
+📫 Connect with Me:
+LinkedIn: Kaushal Rudoy
+😄 Pronouns: He/Him
+⚡ Fun Fact:
+I can learn faster than you can say "Hello, World!" 🚀
 - ⚡ Fun fact: I can Learn faster than you
 
 <!---
