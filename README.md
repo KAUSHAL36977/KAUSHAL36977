@@ -19,4 +19,4 @@ I can learn faster than you can say "Hello, World!" 🚀
 KAUSHAL36977/KAUSHAL36977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=J1NX-82.J1NX-82" />
+![](https://komarev.com/ghpvc/?username=your-github-username)
