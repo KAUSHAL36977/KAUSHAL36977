@@ -15,7 +15,7 @@
 - 🛠 **Data Structures & Algorithms (DSA)**  
 - 💻 **Programming Languages**  
 ## 💻 **Open to Collaborate On:**  
-🎯 **Frontend & Backend Projects**  
+🎯 **Frontend & Backend Projectsand app development projects**  
 🤝 **Innovative Ideas & Open-Source Contributions**  
 🌟 Let’s build something **amazing** together!  
 ## 📫 **Connect with Me:**  
