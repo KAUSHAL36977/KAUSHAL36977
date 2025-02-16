@@ -47,3 +47,31 @@
 - **Impactful**  
 - **Extraordinary**  
 ### Made with ❤️ by **Rudoy Kaushal**
+## 🌟 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KAUSHAL36977&show_icons=true&theme=radical" alt="Kaushal's GitHub Stats" width="400px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSHAL36977&layout=compact&theme=radical" alt="Top Languages" width="400px">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=KAUSHAL36977&theme=onedark&no-bg=true&no-frame=true&row=2&column=3" alt="Kaushal's Trophies" width="800px">
+</div>
+
+---
+
+## 🚀 Let’s Collaborate!
+
+🌟 I’m always open to collaborating with **enthusiastic developers**. Together, we can create something:
+
+- **Innovative**
+- **Impactful**
+- **Extraordinary**
+
+---
+
+### Made with ❤️ by **Rudoy Kaushal**
