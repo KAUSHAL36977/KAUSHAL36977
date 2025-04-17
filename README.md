@@ -45,7 +45,8 @@ As a passionate technologist, I bridge the gap between complex technological cha
 
 ### Continuous Learning Metrics
 
-![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=KAUSHAL777KUMAR&theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/KAUSHAL777KUMAR?theme=dark)
+
 
 
 ## 🌐 Professional Connectivity
